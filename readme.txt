@@ -1,1 +1,1 @@
-Creating a new branch & easify the game difficulty.
+Creating a new branch and easify the game difficulty.
